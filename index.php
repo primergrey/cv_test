@@ -8,7 +8,7 @@
     <body>
         <section>
             <img src="/images/pg_logo.png">
-            <a href="http://en.wikipedia.org/wiki/Special:Random" target="_blank">Learn Something.</a>
+            <a href="https://www.youtube.com/" target="_blank">Learn Something.</a>
         </section>
     </body>
 </html>
