@@ -48,7 +48,7 @@
     section {
         width:250px;
         height:132px;
-        margin:-48px 0 0 -175px;
+        margin:0 0 0 0;
         @include position(absolute, 50% null null 50%); // http://bourbon.io/docs/#position
         img { display:block; }
         a {
